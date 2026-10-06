@@ -1,0 +1,26 @@
+{
+  "name": "bot-watts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLUE-HUB4/bot-watts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BLUE-HUB4/bot-watts/issues"
+  },
+  "homepage": "https://github.com/BLUE-HUB4/bot-watts#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc14",
+    "pino": "^10.4.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
